@@ -9,7 +9,7 @@ Step 2. View the image of Zubin
 Step 3. Zubin 
 
 # Dependancies
-zubin.py's only dependancy is `Pillow`.
+zubin.py's only dependancies are `Pillow` and y̸̟̙̘͎̮̹̋̒̔̑̊͌̈̿̉̎̇̇͝͠͝ȍ̴̡̨̝̜̟̩̲̱̬͍̜̘͇̠̦̈́͐ȕ̴͈͖̤.̴̢̱̲̝̝̩͈͚̣͚̱͓̀̈̂͋̍̃
 
 # FAQ
 ```
