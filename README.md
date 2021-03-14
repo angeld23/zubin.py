@@ -1,6 +1,11 @@
 # zubin.py
 Zubin.py is an open-source framework for displaying a grayscale 128x128 image of Tally Hall member Zubin Sedghi made entirely in Python. It serves no other purpose.
 
+# Usage
+Step 1. Execute `zubin.py`
+Step 2. View the image of Zubin
+Step 3. Zubin
+
 # Dependancies
 zubin.py's only dependancy is `Pillow`.
 
