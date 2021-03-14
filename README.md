@@ -6,7 +6,7 @@ Step 1. Execute `zubin.py`
 
 Step 2. View the image of Zubin
 
-Step 3. Zubin
+Step 3. Zubin 
 
 # Dependancies
 zubin.py's only dependancy is `Pillow`.
